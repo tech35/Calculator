@@ -1,9 +1,11 @@
 # Calculon
 A calculator made in Python!
 
-This calculator was made thruogh PyQt5, os, and sys
+![GitHub top language](https://img.shields.io/github/languages/top/tech35/Calculon)
 
 <img src="https://img.shields.io/badge/Made%20With%20-Python%203.9.1-blue.svg" alt="Made With Python 3.9.1">
+
+This calculator was made thruogh PyQt5, os, and sys
 
 To install Python 3.9.1 [click here.](https://www.python.org/downloads/)
 
