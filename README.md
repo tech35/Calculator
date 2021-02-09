@@ -1,4 +1,7 @@
 # Calculon
+
+[![Repo Views](http://hits.dwyl.com/tech35/Calculon.svg)](http://hits.dwyl.com/tech35/Calculon)
+
 A calculator made in Python!
 
 ![GitHub top language](https://img.shields.io/github/languages/top/tech35/Calculon)
